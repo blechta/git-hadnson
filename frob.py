@@ -1,5 +1,5 @@
 def frobnicate():
-    return 41
+    return 42
 
 def spam():
     return "eggs"
