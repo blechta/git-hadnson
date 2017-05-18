@@ -1,2 +1,2 @@
 def frobnicate():
-    return 41
+    return 42
